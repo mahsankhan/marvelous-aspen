@@ -3,7 +3,8 @@ title: About Us
 subtitle: >-
   This is an optional subtitle. It can be used to describe what this page is
   about.
-img_path: images/about.jpg
+img_path: >-
+  /images/quant-network-launches-overledger-for-cross-blockchain-data-interoperability-768x430.jpg
 menu:
   secondary:
     name: About Us
