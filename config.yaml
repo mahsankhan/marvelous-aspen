@@ -23,7 +23,7 @@ params:
     menu:
       actions:
         - label: Wait List
-          url: /signup
+          url: /sign-up-for-wait-list
   palette: blue
 disableKinds:
   - RSS
