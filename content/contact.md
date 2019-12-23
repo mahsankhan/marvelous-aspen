@@ -1,17 +1,15 @@
 ---
-title: Contact
+title: Wait List
 sections:
-  - type: section_contact
+  - bg: gray
+    content: 'Please provide your information, we will contact you shortly.'
     section_id: contact
-    title: Contact
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
-    bg: gray
+    title: Sign up for Wait List
+    type: section_contact
 menu:
   secondary:
-    name: Contact
+    name: Sign up for Wait List
     weight: 3
 layout: landing
 ---
+
