@@ -8,8 +8,8 @@ menu:
     name: Sign up for Wait List
     weight: 4
   secondary:
-    name: Sign up for Wait List
-    weight: 4
+    name: ''
+    weight: ''
 layout: landing
 ---
 
