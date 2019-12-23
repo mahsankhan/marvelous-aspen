@@ -5,11 +5,11 @@ sections:
     type: section_contact
 menu:
   main:
-    name: Sign up for Wait List
-    weight: 4
-  secondary:
     name: ''
     weight: ''
+  secondary:
+    name: Sign up for Wait List
+    weight: 4
 layout: landing
 ---
 
