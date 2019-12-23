@@ -3,7 +3,8 @@ title: Wait List
 subtitle: >-
   While we are busy in development our alpha version. You can join the wait list
   of promising merchants.
-img_path: images/11.jpg
+img_path: >-
+  /images/quant-network-launches-overledger-for-cross-blockchain-data-interoperability-768x430.jpg
 menu:
   secondary:
     name: Sign Up for Wait List
