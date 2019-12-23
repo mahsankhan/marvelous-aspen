@@ -8,7 +8,7 @@ sections:
     type: section_contact
 menu:
   secondary:
-    name: Sign up for Wait List
+    name: Wait List
     weight: 0
 layout: landing
 ---
