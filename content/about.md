@@ -8,7 +8,7 @@ img_path: >-
 menu:
   main:
     name: About us
-    weight: 1
+    weight: 2
   secondary:
     name: About Us
     weight: 1
