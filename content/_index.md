@@ -5,7 +5,8 @@ sections:
       - label: Learn More
         url: /features
     content: We are providing Fiat to Stable Coins Solution to Merchants
-    image: images/hero.png
+    image: >-
+      /images/quant-network-launches-overledger-for-cross-blockchain-data-interoperability-768x430.jpg
     section_id: hero
     title: We are providing Fiat to Stable Coins Solution to Merchants
     type: section_hero
@@ -18,7 +19,8 @@ sections:
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
           consequat ex.
-        image: images/feature1.png
+        image: >-
+          /images/quant-network-launches-overledger-for-cross-blockchain-data-interoperability-768x430.jpg
         title: The Best Feature of Your Services
       - actions:
           - label: Learn More
@@ -27,7 +29,8 @@ sections:
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
           sapien interdum luctus. Cras rhoncus condimentum metus sit amet
           auctor.
-        image: images/feature2.png
+        image: >-
+          /images/quant-network-launches-overledger-for-cross-blockchain-data-interoperability-768x430.jpg
         title: Awesome Feature of Your Services
       - actions:
           - label: Learn More
@@ -36,7 +39,8 @@ sections:
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
           quis venenatis sem. Proin eget massa id metus eleifend maximus sit
           amet nec urna.
-        image: images/feature3.png
+        image: >-
+          /images/quant-network-launches-overledger-for-cross-blockchain-data-interoperability-768x430.jpg
         title: Cool Feature of Your Services
     section_id: features
     subtitle: >-
@@ -77,7 +81,7 @@ sections:
     type: section_cta
   - bg: gray
     section_id: recent-posts
-    title: Latest Posts
+    title: News
     type: section_posts
 menu:
   main:
