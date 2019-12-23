@@ -9,7 +9,7 @@ sections:
 menu:
   secondary:
     name: Sign up for Wait List
-    weight: 3
+    weight: 0
 layout: landing
 ---
 
