@@ -6,6 +6,9 @@ subtitle: >-
 img_path: >-
   /images/quant-network-launches-overledger-for-cross-blockchain-data-interoperability-768x430.jpg
 menu:
+  main:
+    name: About us
+    weight: 1
   secondary:
     name: About Us
     weight: 1
