@@ -3,6 +3,7 @@ title: Features
 sections:
   - actions:
       - label: Sign up for Wait List
+        url: '#'
     content: >-
       V Pay is not your average crypto-payment solution. Our features are what
       separates us from the rest.
