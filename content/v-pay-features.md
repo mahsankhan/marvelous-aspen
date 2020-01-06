@@ -1,5 +1,5 @@
 ---
-title: V Pay - Features
+title: V Pay Features
 menu:
   secondary:
     identifier: Features
