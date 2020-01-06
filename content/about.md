@@ -1,8 +1,9 @@
 ---
 title: About Us
 subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+  V Pay - A secure and real-time platform for merchants to deal with
+  crypto-payments and become enablers of a financially inclusive future that is
+  fast, secure and comes at a minimal cost.
 img_path: >-
   /images/quant-network-launches-overledger-for-cross-blockchain-data-interoperability-768x430.jpg
 menu:
