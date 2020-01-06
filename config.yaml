@@ -15,7 +15,10 @@ params:
     social_title: Community
     subscribe_content: Stay up to date with our latest developments.
     subscribe_title: Subscribe
-    tagline: Fiat Currency - Stable Coins For Merchants
+    tagline: >-
+      A secure and real-time platform for merchants to deal with crypto-payments
+      and become enablers of a financially inclusive future that is fast, secure
+      and comes at a minimal cost.
   header:
     has_nav: true
     logo_img: images/logo.png
