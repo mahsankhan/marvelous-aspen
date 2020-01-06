@@ -78,8 +78,7 @@ sections:
     subtitle: This is an optional description for the call to action block.
     title: This Is Call to Action Block!
     type: section_cta
-  - actions:
-      - label: CHECK
+  - actions: []
     content: >-
       Decentralized and SecureBuilt on the decentralized structure with the
       secure database of a blockchain, your transactions are transparent, locked
