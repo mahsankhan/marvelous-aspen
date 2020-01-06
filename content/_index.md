@@ -5,6 +5,15 @@ sections:
       - label: Learn More
         url: /features
     content: >-
+      Your ultimate gateway to the crypto-world.
+
+
+      Creating opportunities into the realm of crypto-payments.
+
+
+      Leading crypto-payment solutions.
+
+
       A secure and real-time platform for merchants to deal with crypto-payments
       and become enablers of a financially inclusive future that is fast, secure
       and comes at a minimal cost.
@@ -12,8 +21,8 @@ sections:
       /images/quant-network-launches-overledger-for-cross-blockchain-data-interoperability-768x430.jpg
     section_id: hero
     title: >-
-      Your ultimate gateway to the crypto-world.  Creating opportunities into
-      the realm of crypto-payments.  Leading crypto-payment solutions.
+      Seamless. Secure. Stable.  Real-time. Secure. Trusted. Open doors to the
+      crypto-world.
     type: section_hero
   - bg: gray
     featureslist:
