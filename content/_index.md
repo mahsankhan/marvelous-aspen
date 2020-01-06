@@ -21,36 +21,38 @@ sections:
           - label: Learn More
             url: /features
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          Built on the decentralized structure with the secure database of a
+          blockchain, your transactions are transparent, locked and safe from
+          malicious activities.
         image: >-
           /images/quant-network-launches-overledger-for-cross-blockchain-data-interoperability-768x430.jpg
-        title: The Best Feature of Your Services
+        title: Decentralized and Secure
       - actions:
           - label: Learn More
             url: /features
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          Track the cashflows through our analytics dashboard. Be it redemption,
+          withdrawal or any fiat-to-crypto movement or the other way around,
+          using our modern and simple-to-use dashboard and chic visualizations,
+          track everything in one place.
         image: >-
           /images/quant-network-launches-overledger-for-cross-blockchain-data-interoperability-768x430.jpg
-        title: Awesome Feature of Your Services
+        title: Track Analytics
       - actions:
           - label: Learn More
             url: /features
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          With a stable-coin backing, convert your received tokens or cryptos
+          directly into pegged stable-coins and be safe from unexpected
+          volatilities. With the stable-coin mechanism, you are hedged from
+          unwanted crypto-swings.
         image: >-
           /images/quant-network-launches-overledger-for-cross-blockchain-data-interoperability-768x430.jpg
-        title: Cool Feature of Your Services
+        title: Eliminate the Volatility
     section_id: features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Azimuth is not your average crypto-payment solution. Our features are what
+      separates us from the rest.
     title: Features
     type: section_features
   - bg: white
