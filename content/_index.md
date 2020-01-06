@@ -4,7 +4,12 @@ sections:
   - actions:
       - label: Learn More
         url: /features
-    content: We are providing Fiat to Stable Coins Solution to Merchants
+    content: |-
+      Your ultimate gateway to the crypto-world.
+
+      Creating opportunities into the realm of crypto-payments.
+
+      Leading crypto-payment solutions.
     image: >-
       /images/quant-network-launches-overledger-for-cross-blockchain-data-interoperability-768x430.jpg
     section_id: hero
