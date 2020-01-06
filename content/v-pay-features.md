@@ -1,5 +1,10 @@
 ---
 title: V Pay - Features
+menu:
+  secondary:
+    identifier: Features
+    name: Features
+    weight: 3
 layout: page
 ---
 <!--\[if gte mso 9]><xml>
