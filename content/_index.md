@@ -85,11 +85,11 @@ sections:
     title: Testimonials
     type: section_reviews
   - actions:
-      - label: Get Started
-        url: /signup
+      - label: Sign up in Wait List
+        url: /sign-up-for-wait-list
     section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
-    title: This Is Call To Action Block!
+    subtitle: Would you like to enable crypto-payment solutions?
+    title: Are you merchant?
     type: section_cta
   - bg: gray
     section_id: recent-posts
