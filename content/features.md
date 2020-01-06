@@ -12,13 +12,6 @@ sections:
     section_id: hero
     title: Why V Pay?
     type: section_hero
-  - actions:
-      - label: Get Started
-        url: '#'
-    section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
-    title: This Is Call to Action Block!
-    type: section_cta
 menu:
   main:
     name: Features
