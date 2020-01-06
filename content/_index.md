@@ -1,5 +1,5 @@
 ---
-title: Welcome to VPay
+title: Welcome to V Pay
 sections:
   - actions:
       - label: Learn More
