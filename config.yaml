@@ -15,7 +15,7 @@ params:
     social_title: Community
     subscribe_content: Stay up to date with our latest developments.
     subscribe_title: Subscribe
-    tagline: Fiat-Stable Coins For Merchants
+    tagline: Fiat Currency - Stable Coins For Merchants
   header:
     has_nav: true
     logo_img: images/logo.png
