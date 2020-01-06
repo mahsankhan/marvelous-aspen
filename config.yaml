@@ -1,14 +1,14 @@
-title: VPay
+title: V Pay
 baseURL: /
 params:
   footer:
-    content: '&copy; VPay. All rights reserved.'
+    content: '&copy; V Pay. All rights reserved.'
     has_nav: true
     has_social: true
     has_subscribe: true
     links:
       - new_window: true
-        text: Powered by VPay Team
+        text: Powered by V Pay Team
         url: 'https://www.vpay.com'
     logo_img: images/logo_alt.png
     nav_title: Company
@@ -19,7 +19,7 @@ params:
   header:
     has_nav: true
     logo_img: images/logo.png
-    title: VPay
+    title: V Pay
     menu:
       actions:
         - label: Wait List
