@@ -8,24 +8,70 @@ sections:
         url: '#'
     bg: gray
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      Our features are what separates us from the rest.
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
+      ## Decentralized and Secure
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      Built on the decentralized structure with the secure database of a
+      blockchain, your transactions are transparent, locked and safe from
+      malicious activities.
+
+
+      ## Track Analytics
+
+
+      Track the cashflows through our analytics dashboard. Be it redemption,
+      withdrawal or any fiat-to-crypto movement or the other way around, using
+      our modern and simple-to-use dashboard and chic visualizations, track
+      everything in one place.
+
+
+      ## Eliminate the Volatility
+
+
+      With a stable-coin backing, convert your received tokens or cryptos
+      directly into pegged stable-coins and be safe from unexpected
+      volatilities. With the stable-coin mechanism, you are hedged from unwanted
+      crypto-swings.
+
+
+      ## No Intermediaries
+
+
+      We cut-down intermediaries and offer a more direct, faster and simpler
+      solution. Connect with your peers, receive payments and convert directly
+      through our website. Minimal cost and reduced efforts. Can’t get simpler
+      than that.
+
+
+      ## Wallet Security
+
+
+      Your wallet information is secure and not stored loosely on our databases.
+      We are strict about privacy and offer the best possible to our merchants.
+
+
+      ## Top Notch KYC
+
+
+      Our KYC process ensures an added layer of trust and protects you from all
+      kinds of other-party risk.
+
+
+      ## Go from Fiat to Crypto – In Real Time!
+
+
+      Our redemption and withdrawal are real-time. You don’t need to wait
+      forever. Just deposit funds and get stable-coins in real-time. It’s that
+      fast.
     image: >-
       /images/quant-network-launches-overledger-for-cross-blockchain-data-interoperability-768x430.jpg
     section_id: features
-    title: The Best Features of Your Services
+    title: V Pay is not your average crypto-payment solution.
+    type: section_content
+  - bg: gray
     type: section_content
   - actions:
       - label: Get Started
