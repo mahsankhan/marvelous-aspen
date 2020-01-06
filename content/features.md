@@ -71,8 +71,6 @@ sections:
     section_id: features
     title: V Pay is not your average crypto-payment solution.
     type: section_content
-  - bg: gray
-    type: section_content
   - actions:
       - label: Get Started
         url: '#'
@@ -80,6 +78,31 @@ sections:
     subtitle: This is an optional description for the call to action block.
     title: This Is Call to Action Block!
     type: section_cta
+  - actions:
+      - label: CHECK
+    content: >-
+      Decentralized and SecureBuilt on the decentralized structure with the
+      secure database of a blockchain, your transactions are transparent, locked
+      and safe from malicious activities.Track AnalyticsTrack the cashflows
+      through our analytics dashboard. Be it redemption, withdrawal or any
+      fiat-to-crypto movement or the other way around, using our modern and
+      simple-to-use dashboard and chic visualizations, track everything in one
+      place.Eliminate the VolatilityWith a stable-coin backing, convert your
+      received tokens or cryptos directly into pegged stable-coins and be safe
+      from unexpected volatilities. With the stable-coin mechanism, you are
+      hedged from unwanted crypto-swings.No IntermediariesWe cut-down
+      intermediaries and offer a more direct, faster and simpler solution.
+      Connect with your peers, receive payments and convert directly through our
+      website. Minimal cost and reduced efforts. Can’t get simpler than
+      that.Wallet SecurityYour wallet information is secure and not stored
+      loosely on our databases. We are strict about privacy and offer the best
+      possible to our merchants.Top Notch KYCOur KYC process ensures an added
+      layer of trust and protects you from all kinds of other-party risk.Go from
+      Fiat to Crypto – In Real Time!Our redemption and withdrawal are real-time.
+      You don’t need to wait forever. Just deposit funds and get stable-coins in
+      real-time. It’s that fast.
+    title: CHECK CHECK
+    type: section_hero
 menu:
   main:
     name: Features
