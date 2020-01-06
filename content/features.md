@@ -8,7 +8,8 @@ sections:
       separates us from the rest.
     image: >-
       /images/quant-network-launches-overledger-for-cross-blockchain-data-interoperability-768x430.jpg
-    title: ''
+    section_id: hero
+    title: Why V Pay?
     type: section_hero
   - actions:
       - label: Get Started
