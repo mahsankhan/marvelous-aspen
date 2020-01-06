@@ -3,7 +3,7 @@ title: Features
 sections:
   - actions:
       - label: See all features
-        url: '#'
+        url: v-pay-features/
     content: >-
       V Pay is not your average crypto-payment solution. Our features are what
       separates us from the rest.
