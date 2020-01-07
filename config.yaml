@@ -10,7 +10,7 @@ params:
       - new_window: true
         text: Powered by V Pay Team
         url: 'https://www.vpay.com'
-    logo_img: images/logo_alt.png
+    logo_img: ''
     nav_title: Company
     social_title: Community
     subscribe_content: Stay up to date with our latest developments.
@@ -21,7 +21,7 @@ params:
       and comes at a minimal cost.
   header:
     has_nav: true
-    logo_img: images/logo.png
+    logo_img: ''
     title: V Pay
     menu:
       actions:
